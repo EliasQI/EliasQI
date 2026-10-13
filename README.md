@@ -1,27 +1,58 @@
-Bom dia, eu sou o Elias e apenas isso
+# Olá! Eu sou o Elias 
 
+Estudante de **Ciência da Computação na UNIP** e Técnico em Desenvolvimento de Sistemas pela Etec Albert Einstein.
 
-- 🌱 Estudando programação
-- 📫 Contato: elias2004souzam@gmail.com
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Eu já assisti mais de 200 animes
+Atualmente, trabalho na **KPMG**, desenvolvendo minha trajetória profissional e buscando evoluir continuamente na área de tecnologia.
 
+Tenho interesse em programação, engenharia de dados, processamento de grandes volumes de dados e desenvolvimento de software. Gosto de aplicar meus conhecimentos em projetos acadêmicos e pessoais, buscando aprender novas tecnologias na prática.
 
-<div>
-  <a href="https://github.com/EliasQI">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasQI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasQI&layout=compact&langs_count=7&theme=dark"/>
+## Tecnologias e ferramentas
 
-</div>
- <br>
-<div  align="center"> 
-<div style="display: inline_block"><br>
-  <img align="left" alt="Elias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" alt="Elias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" alt="Elias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" alt="Elias-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="left" alt="Elias-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="left" alt="Elias-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="left" alt="Elias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-</div>
+### Linguagens de programação
+- Python
+- SQL
+- Java
+- JavaScript
+
+### Dados e processamento
+- PySpark
+- Azure Databricks
+- PostgreSQL
+
+### Desenvolvimento web
+- Flask
+- React
+- Vite
+
+### Ferramentas
+- Git e GitHub
+
+## Projetos
+
+### 🌎 AirSense — Monitoramento da Qualidade do Ar
+
+Projeto acadêmico de monitoramento da qualidade do ar utilizando sensores conectados a um ESP32 para coletar dados ambientais.
+
+O projeto integra um backend para processamento e disponibilização dos dados, um banco de dados para armazenamento e um dashboard para visualização das informações. Também contempla o desenvolvimento de mensagens inteligentes com base nas condições ambientais.
+
+**Tecnologias:** Python, Flask, React, Vite, PostgreSQL e ESP32.
+
+🔗 [Acesse meus repositórios](https://github.com/EliasQI?tab=repositories)
+
+## Formação acadêmica
+
+- **Ciência da Computação** — UNIP
+- **Técnico em Desenvolvimento de Sistemas** — Etec Albert Einstein
+
+## Experiência profissional
+
+- **KPMG** — Experiência em ambiente corporativo, com foco no desenvolvimento profissional e na evolução da minha carreira em tecnologia.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/elias-de-souza-mendonca/)
+- [GitHub](https://github.com/EliasQI)
+
+---
+
+*Em constante aprendizado, desenvolvendo projetos e buscando novos desafios em tecnologia.*
